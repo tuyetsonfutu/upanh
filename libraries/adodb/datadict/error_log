@@ -1,0 +1,4 @@
+[21-Aug-2013 06:43:13] PHP Fatal error:  Class 'ADODB_DataDict' not found in /home/trunghy/public_html/libraries/adodb/datadict/datadict-mssql.inc.php on line 13
+[21-Aug-2013 06:43:14] PHP Fatal error:  Class 'ADODB_DataDict' not found in /home/trunghy/public_html/libraries/adodb/datadict/datadict-mysql.inc.php on line 13
+[21-Aug-2013 06:43:15] PHP Fatal error:  Class 'ADODB_DataDict' not found in /home/trunghy/public_html/libraries/adodb/datadict/datadict-oci8.inc.php on line 13
+[21-Aug-2013 06:43:16] PHP Fatal error:  Class 'ADODB_DataDict' not found in /home/trunghy/public_html/libraries/adodb/datadict/datadict-postgres.inc.php on line 13
